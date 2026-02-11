@@ -50,6 +50,16 @@
    - Assign videos for **Time of Day**.
 3. In **Playback**, choose a mode and click **Start**.
 
+## Screenshots and Video
+
+| Loop/Shuffle & Time of Day | Playback & System |
+| :---: | :---: |
+| <img src="screenshot/01-Setting.png" width="450" alt="VideoWall settings screen 1" /> | <img src="screenshot/02-Setting.png" width="450" alt="VideoWall settings screen 2" /> |
+| **About** |
+| <img src="screenshot/03-Setting.png" width="450" alt="VideoWall settings screen 3" /> |
+
+[**→ Watch Preview Video (mov, 1.3MB)**](screenshot/videowall-preview.mov)
+
 ## Build from source
 
 ```bash
@@ -107,6 +117,16 @@ VideoWall คือแอปเมนูบาร์สำหรับ macOS ท
    - เพิ่มวิดีโอสำหรับโหมด **Loop/Shuffle** หรือ
    - เลือกวิดีโอแยกตามช่วงเวลาในโหมด **Time of Day**
 3. ที่แท็บ **Playback** เลือกโหมด แล้วกด **Start**
+
+### ภาพหน้าจอและวิดีโอ
+
+| Loop/Shuffle & Time of Day | Playback & System |
+| :---: | :---: |
+| <img src="screenshot/01-Setting.png" width="450" alt="VideoWall settings screen 1" /> | <img src="screenshot/02-Setting.png" width="450" alt="VideoWall settings screen 2" /> |
+| **About** |
+| <img src="screenshot/03-Setting.png" width="450" alt="VideoWall settings screen 3" /> |
+
+[**→ ชมวิดีโอตัวอย่าง (mov, 1.3MB)**](screenshot/videowall-preview.mov)
 
 ### สร้างจากซอร์ส (Build from source)
 
